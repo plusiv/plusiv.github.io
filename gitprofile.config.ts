@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1VYXh654K6nWfqm-o_BdU_Ln3kjRBKRrm/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1BLUff6ygjOU7CL4YLY-CvYvWxRECmatt/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Go',
@@ -96,10 +96,17 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'OGTICRD',
-      position: 'Senior Software Engineer Team Lead',
-      from: 'August 2023',
+      company: 'Salesforge',
+      position: 'Senior Backend Engineer',
+      from: 'September 2024',
       to: 'Present',
+      companyLink: 'https://salesforge.ai',
+    },
+    {
+      company: 'OGTICRD',
+      position: 'Senior Software Engineer',
+      from: 'August 2023',
+      to: 'September 2024',
       companyLink: 'https://ogtic.gob.do',
     },
     {
